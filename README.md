@@ -107,3 +107,19 @@ data-warehouse-project/
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
+
+Hi! I’m Sudeb Kumar Mandal, a passionate data enthusiast and aspiring data engineer with a strong foundation in SQL, data modeling, ETL pipelines, and analytics reporting. I created this project as a portfolio piece to demonstrate practical knowledge and hands-on experience in modern data warehousing techniques using the Medallion Architecture.
+
+With a keen interest in solving real-world data problems, I enjoy turning raw data into valuable insights that drive decision-making. I’m continuously learning and exploring technologies in the fields of:
+	•	Data Engineering
+	•	Business Intelligence (BI)
+	•	Analytics & Visualization
+	•	Cloud Data Platforms
+	•	Modern Data Stack Tools
+
+🔍 Let’s connect and collaborate on data-driven projects that make a difference!
+
+📬 Get in Touch
+	•	GitHub: Devrockzz654
+	•	LinkedIn: Sudeb Kumar Mandal
+	•	Notion Portfolio: View Project Steps
