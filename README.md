@@ -41,7 +41,7 @@ Everything is for Free!
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 - **[Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
-- **[Project Steps (Notion)](https://www.notion.so/1fd2a1e9f1138089a7bcdabe17eebb86?v=20d2a1e9f113802a914b000cd9399966&source=copy_link): Complete phase-wise task list
+- **[Project Steps (Notion)](https://www.notion.so/1fd2a1e9f1138089a7bcdabe17eebb86?v=20d2a1e9f113802a914b000cd9399966&source=copy_link):** Complete phase-wise task list
 
 ---
 
@@ -119,7 +119,8 @@ With a keen interest in solving real-world data problems, I enjoy turning raw da
 
 🔍 Let’s connect and collaborate on data-driven projects that make a difference!
 
-📬 Get in Touch
-	•	GitHub: Devrockzz654
-	•	LinkedIn: Sudeb Kumar Mandal
-	•	Notion Portfolio: View Project Steps
+## 📬 Get in Touch
+
+- **GitHub**: [Devrockzz654](https://github.com/Devrockzz654)  
+- **LinkedIn**: [Sudeb Kumar Mandal](https://www.linkedin.com/in/sudeb-kumar-mandal/)  
+- **Notion Portfolio**: [Project Steps](https://www.notion.so/1fd2a1e9f1138089a7bcdabe17eebb86?v=20d2a1e9f113802a914b000cd9399966&source=copy_link)
